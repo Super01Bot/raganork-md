@@ -38,7 +38,7 @@ Module({
 }, {
   urlButton: {
     displayText: 'Contact Owner',
-    url: 'https://wa.me/'+BOT_INFO.split(";")[2]+'?text=Hey+bro'
+    url: 'https://wa.me/94777188481'?text=Hey+bro'
     }
 }, {
     quickReplyButton: {
@@ -53,7 +53,7 @@ Module({
 }, {
     quickReplyButton: {
         displayText: 'Support group',
-        id: 'support'+myid
+        id: 'https://chat.whatsapp.com/LSdPu7v0ZN8LQpW1Z2S94M'+myid
     }
 }]
 var gc=commands.filter(a=>"group"===a.use),oc=commands.filter(a=>"owner"===a.use),dc=commands.filter(a=>"download"===a.use),ec=commands.filter(a=>"edit"===a.use),sc=commands.filter(a=>"search"===a.use),uc=commands.filter(a=>"utility"===a.use),setarr=[...gc,...dc,...oc,...ec,...sc,...uc]
