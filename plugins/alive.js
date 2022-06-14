@@ -38,7 +38,8 @@ Module({
 }, {
   urlButton: {
     displayText: 'Contact Owner',
-    url: 'https://wa.me/94777188481'?text=Hey+bro'
+    url: 'wa.me/777188481'
+'
     }
 }, {
     quickReplyButton: {
